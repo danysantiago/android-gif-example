@@ -6,7 +6,7 @@ object deps {
   object versions {
     const val kotlin = "1.6.10"
     const val kotlinx = "1.6.0"
-    const val dagger = "2.40.5"
+    const val dagger = "HEAD-SNAPSHOT"
     const val okHttp = "4.9.3"
     const val moshi = "1.13.0"
     const val retrofit = "2.9.0"
